@@ -3,24 +3,13 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
-
-
-
-
-
-
-
-
-
 body{
     height: 1000px;
     background: rgb(255,164,231);
     background: linear-gradient(120deg, rgba(255,164,231,1) 0%, rgba(255,123,220,1) 50%, rgba(255,0,251,1) 100%);
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center;   
 }
 
 .Card{
@@ -49,9 +38,7 @@ body{
     
     display: flex;
     justify-content: center;
-    align-items: center;
-    
-    
+    align-items: center;     
 }
 
 .CardL{
@@ -64,7 +51,6 @@ body{
     flex-direction: column;
     align-items: center;
     margin: -79px;
-
 }
 
 .david{
